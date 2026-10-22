@@ -28,7 +28,7 @@
     "@nomad-xyz/multi-provider": "1.0.0-rc.5",
     "@nomad-xyz/sdk": "^2.1.1",
     "@nomad-xyz/sdk-govern": "^1.1.1",
-    "axios": "^0.21.3",
+    "axios": "^1.20.0",
     "chalk": "^4.1.2"
   },
   "devDependencies": {
